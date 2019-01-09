@@ -42,10 +42,13 @@ h2 {
         box-shadow: 0 2px 0 black;
     }
     .car-gif {
-        margin: 5px;
+        margin: 15px;
+        background-color: white;
     }
     .rating {
-        margin: 5px;
+        margin: 10px;
+        background-color: white;
+        width: 90px;
     }
     #car-input {
         border-radius: 5px;
